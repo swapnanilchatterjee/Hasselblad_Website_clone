@@ -1,0 +1,517 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+.navbar{
+    height: 60px;
+    background-color:black;
+    width: 100%;
+    color: white;
+}
+.nav-logo{
+    height: 20px;
+    width: 180px;
+   
+}
+.logo{
+    background-image: url("logo-white.svg");
+    background-repeat: no-repeat;
+    height: 18px;
+    width: 100%;
+    margin: 0px 0px 0px 20px;
+}
+.border{
+    border: 1.5px solid transparent;
+}
+.border:hover{
+   border:1.5px solid relative;
+   cursor: pointer; 
+}
+.navbar{
+    display: flex;
+}
+
+.logo{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.panel0{
+    font-size: 12px;
+}
+.panel0{
+    display: flex;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+.panel1{
+    margin-right: 50px;
+}
+.panel1 a{
+  text-decoration: none;
+  color: white;
+}
+.panel1 a:hover{
+    cursor: pointer;
+    color: orange;
+}
+.panel2{
+    margin-right: 50px;
+}
+.panel2 a{
+  text-decoration: none;
+  color: white;
+}
+.panel2 a:hover{
+    cursor: pointer;
+    color: orange;
+}
+.panel3{
+    margin-right: 50px;
+}
+.panel3 a{
+  text-decoration: none;
+  color: white;
+}
+.panel3 a:hover{
+    cursor: pointer;
+    color: orange;
+}
+.panel4{
+    margin-right: 50px;
+}
+.panel4 a{
+  text-decoration: none;
+  color: white;
+}
+.panel4 a:hover{
+    cursor: pointer;
+    color: orange;
+}
+.panel5 a{
+  text-decoration: none;
+  color: white;
+}
+.panel5 a:hover{
+    cursor: pointer;
+    color: orange;
+}
+.panel20{
+    display:flex;
+    margin-left: 480px;
+    margin-top: 20px;
+}
+.panel20{
+    font-size: 12px;
+}
+.panel21{
+    margin-right: 30px;
+}
+.panel21:hover{
+  cursor: pointer;
+}
+.panel22:hover{
+    border: 2px solid white;
+    cursor: pointer;
+    
+}
+
+.planet img{
+    object-fit: cover;
+    height: 850px;
+    width: 1857px;
+}
+form {
+    position: relative;
+  }
+  .submit-btn:hover{
+    cursor: pointer;
+    background-color: white;
+  }
+  .submit-btn a:hover{
+    color: black;
+  }
+  
+  .submit-btn {
+    background-size: cover;
+    background-position: center bottom;
+    background-color:transparent;
+    width: 180px;
+    height: 40px;
+    border: none;
+    color:white;
+    font-size: 16px;
+    cursor: pointer;
+    outline: none;
+    margin-left: 850px;
+    border: 1.5px solid white;
+    font-size: 12px;
+  }
+  .submit-btn a{
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  form {
+    bottom: 140px; 
+  }
+  .camera1{
+    margin-top: -25px;
+  }
+  .camera1 img{
+    background-size: cover;
+    object-fit: cover;
+    height: 850px;
+    width: 1857px;
+  }
+  .cam01{
+    font-size: 40px;
+    color: white;
+    margin-left: 850px;
+    margin-bottom: 10px;
+  }
+  .cam02{
+    font-size: 18px;
+    color: white;
+    margin-left: 800px;
+    margin-bottom: 5px;
+  }
+  .camera2 img{
+    background-size: cover;
+    object-fit: cover;
+    height: 850px;
+    width: 1857px;
+  }
+  .camera2{
+    margin-top: -100px;
+  }
+  .cam03{
+    font-size: 18px;
+    color: white;
+    margin-left: 760px;
+    margin-bottom: 5px;
+  }
+  .cam04{
+    font-size: 18px;
+    color: white;
+    margin-left: 800px;
+    margin-bottom: 5px;
+  }
+  .camera3{
+    margin-top: -100px;
+
+  }
+  .camera3 img{
+    background-size: cover;
+    object-fit: cover;
+    height: 850px;
+    width: 1857px;
+  }
+  body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style for the header */
+  .sticky-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff; /* Change this to your desired background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow for better visibility */
+    z-index: 1000; /* Adjust this value based on your design */
+  }
+  .pic11 img{
+      width: 920px;
+      background-size: cover;
+      object-fit: cover;
+      height: 600px;
+      overflow-clip-margin: content-box;
+      margin-left: 5px;
+  }
+  .pic12 img{
+    background-size: cover;
+    object-fit: cover;
+    height: 600px;
+    width: 920px;
+    overflow-clip-margin: content-box;
+    margin-left: 12px;
+   }
+.pic01{
+display: flex;
+margin-top: -120px;
+}
+.read-more {
+  display: block;
+  margin: 10px auto; /* Centers the button horizontally */
+  padding: 8px 20px;
+  border: 1.5px solid white;
+  background-color:transparent; /* Button background color */
+  color: #fff; /* Button text color */
+  cursor: pointer;
+  
+}
+.read-more a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.read-more:hover {
+  background-color: white; /* Change color on hover */
+}
+.read-more a:hover{
+  color: black;
+}
+.pic11,
+.pic12 {
+  /* ...existing styles */
+  position: relative;
+}
+
+.pic11 .read-more,
+.pic12 .read-more {
+  position: absolute;
+  bottom: 10px; /* Adjust vertical position */
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%);
+}
+/* Existing styles... */
+
+/* Style for the overlay container */
+.overlay {
+  position: relative;
+  text-align: center;
+}
+
+/* Style for the overlay text */
+.overlay-text {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 20px;
+  background-color:transparent;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.overlay-text1 {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 30px;
+  background-color:transparent;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+
+/* Show overlay text on hover */
+.pic11:hover .overlay-text,
+.pic12:hover .overlay-text {
+  display: block;
+}
+
+/* Existing styles... */
+
+
+.pic21 img{
+  width: 920px;
+  background-size: cover;
+  object-fit: cover;
+  height: 600px;
+  overflow-clip-margin: content-box;
+  margin-left: 5px;
+}
+.pic22 img{
+  width: 920px;
+  background-size: cover;
+  object-fit: cover;
+  height: 600px;
+  overflow-clip-margin: content-box;
+  margin-left: 5px;
+}
+.pic02{
+  display: flex;
+  margin-top: 5px;
+  }
+  .pic21,
+  .pic22 {
+    /* ...existing styles */
+    position: relative;
+  }
+  
+  .pic21 .read-more,
+  .pic22 .read-more {
+    position: absolute;
+    bottom: 10px; /* Adjust vertical position */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%);
+  }
+  .overlay-text2 {
+    position: absolute;
+    top: 80%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 30px;
+    background-color:transparent;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.footer {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+form1{
+    display: inline-block;
+    margin-top: 20px;
+    bottom: -10px;
+}
+
+input[type="email"] {
+    margin-right: 10px;
+    padding: 10px;
+}
+
+input[type="submit"] {
+    background-color:transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 2px solid black;
+}
+
+input[type="submit"]:hover {
+    background-color: transparent;
+}
+.foot-panel2{
+  background-color: black;
+  color: white;
+  height: 300px;
+  display: flex;
+  justify-content: space-evenly;
+}
+u{
+  margin-top: 20px;
+  text-decoration: none;
+}
+u:hover{
+  cursor: pointer;
+  color: orange;
+}
+u a{
+  display: block;
+  font-size: 0.85rem;
+  margin-top: 10px;
+  color: #DDDDDD;
+  text-decoration: none;
+}
+
+.foot-panel4{
+  background-color: #0f1111;
+  color: white;
+  height: 80px;
+}
+.pages{
+  font-size: 0.7rem;
+  text-align: center;
+  padding-top: 25px;
+}
+.copyright{
+  padding-top: 5px;
+  font-size: 0.7rem;
+  text-align: center;
+}
+/* ... (previous CSS content) ... */
+
+.camera1 {
+  position: relative;
+  overflow: hidden;
+}
+
+.slideshow-container {
+  display: flex;
+  transition: transform 0.8s ease;
+}
+.slideshow-container img{
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.mySlides {
+  width: 100%;
+  transition: transform 0.8s ease;
+}
+
+.prev,
+.next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  padding: 16px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.prev {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+
+.overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  display: none;
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.camera1:hover .overlay {
+  display: block;
+  opacity: 1;
+}
+
+.camera1:hover .mySlides {
+  filter: blur(2px);
+}
+.overlay a{
+  text-decoration: none;
+  color: white;
+}
+.overlay a:hover{
+  cursor: pointer;
+  color: orange;
+}
+
+
+ 

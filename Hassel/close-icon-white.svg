@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,14.586003 L26.172006,4.41399702 C26.952935,3.63306803 28.219071,3.63306803 29,4.41399702 L17.413997,16 L27.586003,26.172006 C28.366932,26.952935 28.366932,28.219071 27.586003,29 L16,17.413997 L5.82799403,27.586003 C5.04706504,28.366932 3.78092899,28.366932 3,27.586003 L14.586003,16 L4.41399702,5.82799403 C3.63306803,5.04706504 3.63306803,3.78092899 4.41399702,3 L16,14.586003 Z" id="path-1"></path>
+    </defs>
+    <g id="3.开发需求---评分页面（公众）" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="作品上传页面---作品点击放大1" transform="translate(-1507.000000, -99.000000)">
+            <g id="div" transform="translate(352.000000, 96.000000)">
+                <g id="light/times" transform="translate(1152.000000, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#ffffff" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
